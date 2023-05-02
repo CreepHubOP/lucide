@@ -7,7 +7,7 @@
   <a href="https://discord.gg/EH6nSts"><img src="https://img.shields.io/discord/723074157486800936?label=chat&logo=discord&logoColor=%23ffffff&colorB=%237289DA" alt="discord chat"></a>
 </p>
 
-# Lucide
+# Luc
 
 Community-run fork of [Feather Icons](https://github.com/feathericons/feather), open for anyone to contribute icons.
 
